@@ -12,7 +12,7 @@ This repo contains my custom terminal setup using **Oh My Posh** and **PowerShel
 ## 📁 What's Inside
 - **Custom Oh My Posh Theme**: A JSON file with colors and icons that match my aesthetic. 🎨
 - **PowerShell Profile**: Configures my prompt with Oh My Posh, PSReadLine settings, and custom aliases. ⚙️
-- **Translucent Terminal**: Achieved by modifying the `settings.json` file to give the terminal a modern, see-through look. 🌈
+- **Translucent Terminal**: Achieved by modifying the `settings.json` file to give the terminal a modern, see-through look. ✨
 
 ## 🚀 Getting Started
 1. **Install Oh My Posh**:
