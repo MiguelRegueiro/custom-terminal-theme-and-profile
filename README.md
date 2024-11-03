@@ -13,7 +13,8 @@ This repo contains my custom terminal setup using **Oh My Posh** and **PowerShel
    ```
 2. **Install a Nerd Font** (e.g., FiraCode Nerd Font).
 3. **Copy Files**:
-   - Place the theme JSON file in your Oh My Posh themes folder C:\Users\YourUserName\AppData\Local\Programs\oh-my-posh\themes.
+   - Place the theme JSON file in your Oh My Posh themes folder
+   ```C:\Users\YourUserName\AppData\Local\Programs\oh-my-posh\themes.```
    - Replace or append the `$PROFILE` file in your PowerShell directory.
 
 4. **Load the Theme**:
