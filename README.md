@@ -5,7 +5,8 @@ This repo contains my custom terminal setup using **Oh My Posh** and **PowerShel
 
 ### Screenshot 📸
 
-![WindowsTerminal_yRkCuEuhR9](https://github.com/user-attachments/assets/98b0a83f-734c-434c-ae3b-7d26b5a481cc)
+![WindowsTerminalScreenshot](https://github.com/user-attachments/assets/2cf58ec3-a975-40b9-91e5-dc592d42d5ec)
+
 
 
 ## 📁 What's Inside
