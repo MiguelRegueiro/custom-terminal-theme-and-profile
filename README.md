@@ -2,6 +2,11 @@
 
 This repo contains my custom terminal setup using **Oh My Posh** and **PowerShell**. It includes a personalized theme and `$PROFILE` configuration to make my terminal look sleek and productive! 
 
+### Screenshot 📸
+
+![image](https://github.com/user-attachments/assets/9bbc1c04-acd0-4271-bc75-1f50874872ea)
+
+
 ## 📁 What's Inside
 - **Custom Oh My Posh Theme**: A JSON file with colors and icons that match my aesthetic. 🎨
 - **PowerShell Profile**: Configures my prompt with Oh My Posh, PSReadLine settings, and a few handy aliases. ⚙️
