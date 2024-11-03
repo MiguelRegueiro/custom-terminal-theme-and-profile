@@ -4,7 +4,8 @@ This repo contains my custom terminal setup using **Oh My Posh** and **PowerShel
 
 ### Screenshot 📸
 
-![image](https://github.com/user-attachments/assets/9bbc1c04-acd0-4271-bc75-1f50874872ea)
+![pPgtqv38HI](https://github.com/user-attachments/assets/fcf3df9e-6e56-4d6a-b8a3-7ac6fbc73b06)
+
 
 
 ## 📁 What's Inside
