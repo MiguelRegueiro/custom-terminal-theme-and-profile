@@ -1,5 +1,6 @@
 # 💻 Terminal Config with Oh My Posh 🚀
 ![pPgtqv38HI](https://github.com/user-attachments/assets/fcf3df9e-6e56-4d6a-b8a3-7ac6fbc73b06)
+
 This repo contains my custom terminal setup using **Oh My Posh** and **PowerShell**. It includes a personalized theme and `$PROFILE` configuration to make my terminal look sleek and productive, with a translucent effect for added style!
 
 ### Screenshot 📸
